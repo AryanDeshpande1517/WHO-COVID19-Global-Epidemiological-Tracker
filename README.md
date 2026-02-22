@@ -159,6 +159,36 @@ This dashboard supports:
 - Policy evaluation  
 - Vaccination campaign impact assessment 
 
+## 📁 Repository Structure
+- Assets contain Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview Image.
+- Datasets contain Dataset References (no raw data included).
+- Scripts contain DAX Documentation.
+- *WHO COVID-19 Global Epidemiological Tracker.pbix* is the Complete Interactive Power BI Dashboard.
+
+```text
+WHO-COVID-19-Global-Epidemiological-Tracker/
+│
+├── Assets/
+│   ├── 1-Home.png
+│   ├── 2-Global-Situation-Room.png
+│   ├── 3-Epidemiological-Trends.png
+│   ├── 4-Severity-Analysis.png
+│   ├── 5-Global-Vaccination-Effort.png
+│   ├── 6-WHO-COVID-19-Global-Epidemiological-Tracker-Complete-Walkthrough.pdf
+│   ├── 7.1-WHO-COVID-19-Global-Epidemiological-Tracker-Banner.png
+│   └── 7.2-WHO-COVID-19-Global-Epidemiological-Tracker-Social-Preview.png
+│
+├── Datasets/
+│   └── Data-Sources.md
+│
+├── Scripts/
+│   └── DAX-Measures.md
+│
+├── WHO COVID-19 Global Epidemiological Tracker.pbix
+│
+└── README.md
+```
+
 ## 👤 Author
 
 **Aryan Deshpande**  
